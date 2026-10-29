@@ -2,7 +2,7 @@
 
 Final project for the Building AI course
 
-## Project Overview
+## Summary
 
 Daily Meal Recommendations is an AI project designed to help users decide what to eat each day. The project provides meal suggestions based on user preferences and dietary needs, making daily meal planning easier and more convenient.
 
